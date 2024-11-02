@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import DataTable from './DataTable';
 
 function App() {
   return (
-    <div className="App">
-      <h1> asdaj</h1>
-    </div>
+<div> 
+  <DataTable></DataTable>
+</div>
   );
 }
 
